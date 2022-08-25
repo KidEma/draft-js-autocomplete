@@ -1,5 +1,5 @@
 {
-  "name": "draft-js-plugin/autocomplete",
+  "name": "draft-js-plugin-autocomplete",
   "version": "0.0.1",
   "sideEffects": [
     "*.css"
